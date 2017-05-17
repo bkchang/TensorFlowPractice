@@ -15,4 +15,5 @@ http://stackoverflow.com/questions/38464559/how-to-locally-view-tensorboard-of-r
 Port forwarding using PuTTY  
 http://87showmin.blogspot.tw/2012/06/ssh-port-forwarding-using-putty.html  
 https://www.akadia.com/services/ssh_putty.html  
-
+See this: ** http://stackoverflow.com/questions/37987839/how-can-i-run-tensorboard-on-a-remote-server **  
+Just completely follow the first answer
